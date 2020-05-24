@@ -4,6 +4,8 @@
   - [Races](https://github.com/bvs7/Aveus/blob/master/Lore/Races.md)
   - [Deities](https://github.com/bvs7/Aveus/blob/master/Lore/Pantheon.md)
 - Rules
+  - [Combat](https://github.com/bvs7/Aveus/blob/master/Rules/Combat.md)
+  - [Coins](https://github.com/bvs7/Aveus/blob/master/Rules/Coins.md)
   - [Inventory Slots](https://github.com/bvs7/Aveus/blob/master/Rules/Slots.md)
   - [Rests/Travel/Exhaustion](https://github.com/bvs7/Aveus/blob/master/Rules/Resting_Traveling.md)
   - [Languages/Skill Proficiencies](https://github.com/bvs7/Aveus/blob/master/Rules/Skill_Proficiencies.md)
