@@ -1,0 +1,1 @@
+Coins are valued at 10 times their listed value in the PHB. For example, modest living per day is 1 silver.

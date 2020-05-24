@@ -7,13 +7,17 @@ For example, let's say I am creating a human with an Acolyte background. Humans 
 - Speak: Common, Dwarven; Read: Common, Dwarven, Ancient
 - Speak: Common, Goblin, Elven; Read: Common, Ancient
 
-To learn to speak a language you must spend 6 months of downtime in a setting where that language is spoken to you and used by you daily, or by paying a tutor 1 gp/day each day to speak the language to you.
+To learn to speak a language you must spend 6 months of downtime in a setting where that language is spoken to you and used by you daily, or by paying a tutor 1 sp*/day each day to speak the language to you.
 
-To learn to read/write a lanugage you must spend 6 months of downtime total and 10 gp/day on a tutor. Written language tutors are not always easy to find.
+To learn to read/write a lanugage you must spend 6 months of downtime total and 10 sp*/day on a tutor. Written language tutors are not always easy to find.
 
 # Skills/Tools/Weapons/Armor
 During character creation, when allocating skill proficiencies, if you could possible apply proficiency to a skill 3 times, you can choose to use those three proficiencies to gain expertise in a skill.
 
-You can gain proficiency in a skill/tool/weapon/armor by spending a total of 2 months of downtime (60 days), spending 3 gp/day on a tutor.
+You can gain proficiency in a skill/tool/weapon/armor by spending a total of 2 months of downtime (60 days), spending 3 sp*/day on a tutor.
 
-You can gain expertise in a skill by spending a total of 6 months of downtime (180 days), spending 10 gp/day on a tutor. Expert tutors are not always easy to find.
+You can gain expertise in a skill by spending a total of 6 months of downtime (180 days), spending 10 sp*/day on a tutor. Expert tutors are not always easy to find.
+
+You can learn a number of new proficiencies equal to 2 plus your Intelligence modifier (min 0)
+
+\*These values are 1/10 of values in the PHB, according to the Coins.md rule
