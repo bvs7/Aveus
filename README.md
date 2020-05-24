@@ -1,3 +1,13 @@
+# Contents
+- Lore
+  - [Civitates](https://github.com/bvs7/Aveus/tree/master/Lore/Civitates.md)
+  - [Races](https://github.com/bvs7/Aveus/blob/master/Lore/Races.md)
+  - [Deities](https://github.com/bvs7/Aveus/blob/master/Lore/Pantheon.md)
+- Rules
+  - [Inventory Slots](https://github.com/bvs7/Aveus/blob/master/Rules/Slots.md)
+  - [Rests/Travel/Exhaustion](https://github.com/bvs7/Aveus/blob/master/Rules/Resting_Traveling.md)
+  - [Languages/Skill Proficiencies](https://github.com/bvs7/Aveus/blob/master/Rules/Skill_Proficiencies.md)
+
 # This World
 Almost 1,000 years ago, a calamity shook the world. The continent of Aveus fell into a period of disarray and mistrust. A five century sized void sits in the annals of history. Between years 0-500 PC (post calamitat) very little is known and similarly very little is know about the cause or outcome of this calamity. From before the year 1 AC (ante calamitat), artifacts of the Glorious Civilization, the Old Empire that stretched across the continent exist. One such evidence of that society is the Sun Road (Via Sol). A massive highway that once stretched from Eastern Sea to Western Sea. 
 
