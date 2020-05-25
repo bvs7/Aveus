@@ -11,5 +11,12 @@ When you and an ally are holding melee weapons on two opposite sides of enemy no
 To reiterate the cover and lighting rules:
 - A creature is lightly obscured from another when they are in dim light, patchy fog, moderate foilage, etc.
 - A creature is heavily obscured from another when they are in darkness, opaque fog, dense foilage, etc.
-- A creature can have half-cover, three-quarters cover, or total cover from an enemy.
-You can hide from a creature when you have total cover from them, when you are heavily obscured, or when you are lightly obscured and have three-quarters cover from them.
+- A creature can have half cover, three-quarters cover, or total cover from an enemy.
+You can hide from a creature in one of the following cases:
+- you have total cover from them
+- when you are heavily obscured
+- when you have three-quarters cover AND:
+  - you are lightly obscured or
+  - you are prone
+- when you have half cover, you are lightly obscured, and you are prone
+- the creature is unaware of your presence and is not alert

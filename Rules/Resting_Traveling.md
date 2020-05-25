@@ -33,13 +33,16 @@
 - Going to 0 HP during combat grants a level of exhaustion
 
 ## Traveling
-A party is granted 100 points with which to travel each day on the map. Traveling into a hex or square expends the cost of that hex times the pace multiplier. So, for example, traveling into a normal terrain hex like grassland at a normal pace expends 4 x 3 points, or 9 points. For Large Scale travel, the points needed for the full journey are calculated and the travel time based on that.
+A party is granted 100 points (maps onto about 8 hours of travel, 12.5 pt per hour) with which to travel each day on the map. Traveling into a hex or square expends the cost of that hex times the pace multiplier. So, for example, traveling into a normal terrain hex like grassland at a normal pace expends 4 x 3 points, or 9 points. For Large Scale travel, the points needed for the full journey are calculated and the travel time based on that.
 
-A party can choose to take a level of exhaustion each in order to add 25 points of travel to their day.
+In most cases, thoroughly searching a hex to see if something (i.e. a dungeon entrance, a campsite, etc) will take between 2x and 4x as many points, depending on what you're looking for.
+
+A party can choose to take a level of exhaustion each in order to add 50 points of travel to their day.
 ### Pace Travel Cost Multiplier
 - Slow (Enabling Stealth): 5x
 - Normal: 4x
 - Fast (More reckless): 3x
+- Gallop (No more than 2 hours a day): 2x
 ### Travel Costs (Small Scale 3 mi per hex)
 - Along a Via or River travel: 2.5 pt
 - Normal: 3 pt
