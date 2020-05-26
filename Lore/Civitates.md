@@ -17,3 +17,5 @@ South of Eldhium and Andarad, Haephus straddles a deep forested biome and a wide
 A mercenary powerhouse. This Civitate located just South of the big three, has profited off of training Freyeen's and Durver's soldiers and officers (often taught by deserters from Andarad) and has provided mercenaries for when the big three have disagreements.
 ## Mysoum
 West of the Urist Mountain range, on Via Sol after it goes through the Tobul. This is the Civitate furthest West on Via Sol. While it has the traditional Civator and Senate of a modern Civitate, the corruption of the Civitas along with it being a juicy target isolated West of the Urist Mountains as it is makes this Civitas seem incompetent and always struggling against the wilderness of Urist and the plains around it.
+## Risuvus
+A Civitas near much fertile ground, two rivers, and the coast.
