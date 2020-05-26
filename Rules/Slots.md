@@ -8,9 +8,11 @@ Some items are Light (L) and some are Negligible (-). The number of Light items 
 Most equipment listed on the equipment Page of the handbook is Light.
 Anything that weighs less than one pound is negligible, and things become a full slot rather than Light between 3 and 10 lbs, depending on how unwieldy they are. Anything at or over 10 pounds is at least one slot.
 
-Backpacks hold 5 slots, require an action to take off or access
-Satchel hold 2 slots, Sacks hold 5 slots (require a hand), require bonus action to drop or access.
-Belt/Pouch holds Light Items.
+Backpacks hold 5 slots, require an action to take off or access.
+
+Satchel hold 2 slots, Sacks hold 7 slots (require a hand), require bonus action to drop or access.
+
+Belt/Pouch hold up to 3 Light Items or Weapons, making them accessible with a free action during combat.
 
 ## Weapon Slots
 
