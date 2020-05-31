@@ -52,5 +52,5 @@ A party can choose to take a level of exhaustion each in order to add 50 points 
 - Along a Via or River travel: 20 pt
 - Normal: 24 pt
 - Difficult: 36 pt
-- Very Difficult: 42 pt
+- Very Difficult: 48 pt
 
